@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469644584005",
+    "project_id": "testing--authentication",
+    "storage_bucket": "testing--authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469644584005:android:2e9908012e1e55010eaf2c",
+        "android_client_info": {
+          "package_name": "com.example.googleauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469644584005-e3conqc693rblskif5osd17cs47g3c94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHr-6ZjvlIgsx41tJMbbAjUrpZtnsMgNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469644584005-e3conqc693rblskif5osd17cs47g3c94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
